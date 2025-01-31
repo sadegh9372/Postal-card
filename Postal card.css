@@ -1,0 +1,28 @@
+body {
+    margin: 10px;
+}
+.card { 
+    margin-top: 20px;
+    border: 1px solid rgb(83, 83, 83);
+    border-radius: 30px;
+    box-shadow: 5px 10px 10px 10px rgb(190, 190, 190);
+    max-width: 500px;
+    text-align: center;
+    overflow: hidden;
+    transform: rotate(-3.5deg);
+}
+.card:hover {
+    transform: rotate(0deg);
+    transition: transform 0.5s ease-in-out;
+}
+.top {
+    color: black;
+    font:20px Arial;
+}
+.button {
+    color: rgb(252, 251, 251);
+    font:20px Arial;
+    background-color:#53d578;
+    padding: 6px;
+    text-align: center;
+}
