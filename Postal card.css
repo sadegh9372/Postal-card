@@ -16,6 +16,7 @@ body {
     transition: transform 0.7s ease-in-out;
 }
 .top {
+    margin: 1px;
     color: black;
     font:20px Arial;
 }
