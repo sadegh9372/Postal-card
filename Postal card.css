@@ -13,7 +13,7 @@ body {
 }
 .card:hover {
     transform: rotate(0deg);
-    transition: transform 0.5s ease-in-out;
+    transition: transform 0.7s ease-in-out;
 }
 .top {
     color: black;
